@@ -1,0 +1,148 @@
+body{
+  margin:0;
+  text-align: center;
+
+
+}
+
+h1{
+  margin: 40px auto 0 auto;
+  font-size: 400%;
+  font-family: Anton, sans-serif;
+  color:#03506f;
+
+}
+
+h2 {
+  font-family:Oswald, sans-serif;
+  font-size: 300%;
+  font-weight: bold;
+  color:#03506f;
+}
+
+h3 {
+  font-family: Anton, sans-serif;
+  font-size: 150%;
+  color: #374045;
+}
+
+p{
+  font-family: Oswald, sans-serif;
+  font-size:22px;
+  text-align: justify;
+
+
+}
+
+.my-image{
+  margin-top: 40px;
+}
+
+.top-container{
+  background-color: #d3e0ea;
+  position:relative;
+  padding-top: 100px;
+
+
+
+}
+
+.middle-container {
+  background-color: #e7e6e1;
+  color: #30514E;
+  padding-bottom: 20px;
+
+
+}
+
+.bottom-container{
+  background-color: #9fb8ad;
+  height:150px;
+  padding-top: 30px;
+
+}
+
+.top-cloud{
+  position:absolute;
+  right: 250px;
+  top:50px;
+
+}
+
+
+.bottom-cloud{
+  position:absolute;
+  left:250px;
+  bottom:300px;
+
+}
+
+.skill-row{
+  width:50%;
+  margin: 60px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
+
+.intro{
+  margin-left: 360px;
+  margin-right: 360px;
+}
+
+.Cs-img{
+  width:35%;
+  margin-right: 30px;
+  float:left;
+}
+
+
+.earth-img{
+  width:35%;
+  margin-right: 10px;
+  margin-left: 30px;
+  float: right;
+}
+
+.mail-text{
+  margin-left:500px;
+  margin-bottom: 40px;
+
+}
+
+.btn{
+  background: #3498db;
+   background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+   background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+   background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+   background-image: -o-linear-gradient(top, #3498db, #2980b9);
+   background-image: linear-gradient(to bottom, #3498db, #2980b9);
+   -webkit-border-radius: 28;
+   -moz-border-radius: 28;
+   border-radius: 28px;
+   font-family: Arial;
+   color: #ffffff;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+ }
+
+ .btn:hover {
+   background: #3cb0fd;
+   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+   background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+   background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+   text-decoration: none;
+ }
+
+.footer-link{
+
+  font-size:25px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.end{
+  text-align: center;
+}
